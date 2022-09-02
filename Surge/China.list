@@ -1,0 +1,179 @@
+# --- Mainland China Available --
+
+# >> Akamai
+DOMAIN-SUFFIX,akadns.net
+
+# >> Alibaba
+DOMAIN-SUFFIX,alibaba.com
+DOMAIN-SUFFIX,alicdn.com
+DOMAIN-SUFFIX,alikunlun.com
+DOMAIN-SUFFIX,alipay.com
+DOMAIN-SUFFIX,amap.com
+DOMAIN-SUFFIX,autonavi.com
+DOMAIN-SUFFIX,dingtalk.com
+DOMAIN-SUFFIX,mxhichina.com
+DOMAIN-SUFFIX,soku.com
+DOMAIN-SUFFIX,taobao.com
+DOMAIN-SUFFIX,tmall.com
+DOMAIN-SUFFIX,tmall.hk
+DOMAIN-SUFFIX,xiami.com
+DOMAIN-SUFFIX,xiami.net
+DOMAIN-SUFFIX,ykimg.com
+DOMAIN-SUFFIX,youku.com
+
+USER-AGENT,%E4%BC%98%E9%85%B7*
+
+# >> Apple
+DOMAIN-SUFFIX,icloud.com.cn
+DOMAIN-SUFFIX,gspe19-cn-ssl.ls.apple.com
+DOMAIN,gs-loc-cn.apple.com
+
+# >> Baidu
+DOMAIN-SUFFIX,baidu.com
+DOMAIN-SUFFIX,baidubcr.com
+DOMAIN-SUFFIX,bdstatic.com
+DOMAIN-SUFFIX,yunjiasu-cdn.net
+
+# >> bilibili
+DOMAIN-SUFFIX,acg.tv
+DOMAIN-SUFFIX,b23.tv
+DOMAIN-SUFFIX,acgvideo.com
+DOMAIN-SUFFIX,bilibili.cn
+DOMAIN-SUFFIX,bilibili.com
+DOMAIN-SUFFIX,bilibili.tv
+DOMAIN-SUFFIX,bilivideo.com
+DOMAIN-SUFFIX,bilivideo.cn
+DOMAIN-SUFFIX,hdslb.com
+
+
+# >> ByteDance
+DOMAIN-SUFFIX,bytecdn.cn
+DOMAIN-SUFFIX,feiliao.com
+DOMAIN-SUFFIX,iesdouyin.com
+DOMAIN-SUFFIX,pstatp.com
+DOMAIN-SUFFIX,snssdk.com
+DOMAIN-SUFFIX,toutiao.com
+
+# >> ChinaNet
+DOMAIN-SUFFIX,189.cn
+DOMAIN-SUFFIX,21cn.com
+
+# > DiDi
+DOMAIN-SUFFIX,didialift.com
+DOMAIN-SUFFIX,didiglobal.com
+DOMAIN-SUFFIX,udache.com
+
+# >> IP Query
+DOMAIN-SUFFIX,ip.bjango.com
+DOMAIN-SUFFIX,ip-cdn.com
+DOMAIN-SUFFIX,ip.cn
+DOMAIN-SUFFIX,ip.la
+DOMAIN-SUFFIX,ipip.net
+DOMAIN-SUFFIX,ipv6-test.com
+DOMAIN-SUFFIX,test-ipv6.com
+DOMAIN-SUFFIX,whatismyip.com
+
+
+# >> JD
+DOMAIN-SUFFIX,360buyimg.com
+DOMAIN-SUFFIX,jd.com
+DOMAIN-SUFFIX,jd.hk
+DOMAIN-SUFFIX,jdpay.com
+
+
+# >> MI
+DOMAIN-SUFFIX,duokan.com
+DOMAIN-SUFFIX,mi-img.com
+DOMAIN-SUFFIX,mifile.cn
+DOMAIN-SUFFIX,miui.com
+DOMAIN-SUFFIX,miwifi.com
+DOMAIN-SUFFIX,xiaomi.com
+
+# >> Microsoft
+DOMAIN-KEYWORD,officecdn
+DOMAIN-SUFFIX,microsoft.com
+DOMAIN-SUFFIX,microsoftstore.com.cn
+DOMAIN-SUFFIX,msftconnecttest.com
+DOMAIN-SUFFIX,msftncsi.com
+DOMAIN-SUFFIX,outlook.com
+DOMAIN-SUFFIX,s-microsoft.com
+DOMAIN-SUFFIX,sfx.ms
+DOMAIN-SUFFIX,sharepoint.com
+# DOMAIN-SUFFIX,visualstudio.com
+DOMAIN-SUFFIX,windows.com
+DOMAIN-SUFFIX,windowsupdate.com
+
+# >> NetEase
+DOMAIN-SUFFIX,126.net
+DOMAIN-SUFFIX,163.com
+
+# >> Sina
+DOMAIN-SUFFIX,sina.cn
+DOMAIN-SUFFIX,sina.com
+DOMAIN-SUFFIX,sina.com.cn
+DOMAIN-SUFFIX,weibo.cn
+DOMAIN-SUFFIX,weibo.com
+DOMAIN-SUFFIX,weibocdn.com
+
+# > Sogo
+DOMAIN-SUFFIX,sogo.com
+DOMAIN-SUFFIX,sogou.com
+DOMAIN-SUFFIX,sogoucdn.com
+DOMAIN,info.pinyin.sogou.com
+DOMAIN,ping.pinyin.sogou.com
+DOMAIN-SUFFIX,push.sogou.com
+DOMAIN-SUFFIX,zhushou.sogou.com
+
+# >> Tencent
+DOMAIN-SUFFIX,vi.l.qq.com
+DOMAIN-SUFFIX,dns.pub
+DOMAIN-SUFFIX,doh.pub
+DOMAIN-SUFFIX,qcloud.com
+DOMAIN-SUFFIX,gtimg.com
+DOMAIN-SUFFIX,idqqimg.com
+DOMAIN-SUFFIX,igamecj.com
+DOMAIN-SUFFIX,myapp.com
+DOMAIN-SUFFIX,myqcloud.com
+DOMAIN-SUFFIX,qpic.cn
+DOMAIN-SUFFIX,qq.com
+DOMAIN-SUFFIX,tencent-cloud.net
+DOMAIN-SUFFIX,tencent.com
+
+USER-AGENT,MicroMessenger%20Client
+USER-AGENT,WeChat*
+
+# >> Tesla
+DOMAIN-SUFFIX,52tesla.com
+DOMAIN-SUFFIX,xiaote.net
+USER-AGENT,TeslaMap
+
+
+USER-AGENT,YYeTs*
+
+# > Content Delivery Network
+DOMAIN-SUFFIX,ccgslb.com
+DOMAIN-SUFFIX,ccgslb.net
+DOMAIN-SUFFIX,chinanetcenter.com
+DOMAIN-SUFFIX,meixincdn.com
+DOMAIN-SUFFIX,ourdvs.com
+DOMAIN-SUFFIX,staticdn.net
+DOMAIN-SUFFIX,wangsu.com
+
+# >> Academic
+
+# 中国知网
+DOMAIN-KEYWORD,cnki.net
+
+# 万方
+DOMAIN-KEYWORD,wanfangdata
+
+# 法律数据库
+DOMAIN-KEYWORD,pkulaw
+DOMAIN-KEYWORD,westlawchina
+
+# >> Others
+DOMAIN-SUFFIX,12306.cn
+DOMAIN-SUFFIX,zhihu.com
+
+
+# --- End of Mainland China Available Section ---
