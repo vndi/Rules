@@ -1,0 +1,8 @@
+# >> Disney+
+host,cdn.registerdisney.go.com
+host-suffix,bamgrid.com
+host-suffix,disney-plus.net
+host-suffix,disneyplus.com
+host-suffix,dssott.com
+host-suffix,disneystreaming.com
+user-agent,Disney+*

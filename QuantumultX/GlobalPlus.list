@@ -1,0 +1,88 @@
+# --- Enhanced Global Services ---
+
+# >> Cloudflare
+host-suffix,cloudflareresolve.com
+
+# >> Google
+host-suffix,appspot.com
+host-suffix,blogger.com
+host-suffix,getoutline.org
+host-suffix,gvt0.com
+host-suffix,gvt1.com
+host-suffix,gvt2.com
+host-suffix,gvt3.com
+host-suffix,googleapis.cn
+host-keyword,google
+host-suffix,gmail.com
+host-keyword,blogspot
+
+# >> Facebook
+host-suffix,cdninstagram.com
+host-suffix,fb.com
+host-suffix,fb.me
+host-suffix,fbcdn.net
+host-suffix,instagram.com
+host-suffix,messenger.com
+host-suffix,whatsapp.com
+host-suffix,whatsapp.net
+host-suffix,whatsapp.biz
+host-suffix,oculus.com
+host-suffix,oculuscdn.com
+host-keyword,facebook
+
+# >> Twitter
+host-suffix,t.co
+host-suffix,twimg.co
+host-suffix,twimg.com
+host-suffix,twitpic.com
+host-suffix,twitter.com
+
+# >> Discord
+host-keyword,discord
+
+# >> Other
+host-suffix,amazon.co.jp
+host-suffix,bbc.com
+host-suffix,binance.com
+host-suffix,cbc.ca
+host-suffix,dropbox.com
+host-suffix,dropboxusercontent.com
+host-suffix,duckduckgo.com
+host-suffix,feedly.com
+host-suffix,live.com
+host-suffix,medium.com
+host-suffix,mega.nz
+host-suffix,nyt.com
+host-suffix,nytco.com
+host-suffix,nytimes.com
+host-suffix,nytstyle.com
+host-suffix,okex.com
+host-suffix,pixiv.net
+host-suffix,pornhub.com
+host-suffix,quora.com
+host-suffix,reddit.com
+host-suffix,redditmedia.com
+host-suffix,reuters.com
+host-suffix,shadowsocks.org
+host-suffix,slideshare.net
+host-suffix,steamcommunity.com
+host-suffix,telegram.org
+host-suffix,theinitium.com
+host-suffix,v2ex.com
+host-suffix,voachinese.com
+host-suffix,wikipedia.org
+host-suffix,wsj.com
+host-suffix,wsj.net
+host-suffix,xvideos.com
+host-suffix,yahoo.com
+host-suffix,disqus.com
+host,onedrive.live.com
+host-keyword,pinterest
+host-keyword,porn
+
+# >> Academic
+
+host,ees.elsevier.com
+host-keyword,sci-hub
+
+# --- End of Enhanced Global Services Section ---

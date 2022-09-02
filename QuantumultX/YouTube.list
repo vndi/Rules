@@ -1,0 +1,16 @@
+# >> YouTube
+host,youtubei.googleapis.com
+host-suffix,googlevideo.com
+host-suffix,youtube.com
+host-suffix,withyoutube.com
+host-suffix,youtubeeducation.com
+host-suffix,youtubegaming.com
+host-suffix,youtubekids.com
+host-suffix,youtube-nocookie.com
+user-agent,com.google.ios.youtube*
+user-agent,YouTube*
+
+# >> YouTubeMusic
+user-agent,com.google.ios.youtubemusic*
+user-agent,YouTubeMusic*
+

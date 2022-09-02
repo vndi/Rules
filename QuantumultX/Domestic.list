@@ -1,0 +1,183 @@
+# --- Mainland China Available --
+
+
+# >> Akamai
+host-suffix,akadns.net
+
+# >> Alibaba
+host-suffix,alibaba.com
+host-suffix,alicdn.com
+host-suffix,alikunlun.com
+host-suffix,alipay.com
+host-suffix,amap.com
+host-suffix,autonavi.com
+host-suffix,dingtalk.com
+host-suffix,mxhichina.com
+host-suffix,soku.com
+host-suffix,taobao.com
+host-suffix,tmall.com
+host-suffix,tmall.hk
+host-suffix,xiami.com
+host-suffix,xiami.net
+host-suffix,ykimg.com
+host-suffix,youku.com
+
+user-agent,%E4%BC%98%E9%85%B7*
+
+# >> Apple
+host-suffix,icloud.com.cn
+host-suffix,gspe19-cn-ssl.ls.apple.com
+host,gs-loc-cn.apple.com
+
+# >> Baidu
+host-suffix,baidu.com
+host-suffix,baidubcr.com
+host-suffix,bdstatic.com
+host-suffix,yunjiasu-cdn.net
+
+# >> bilibili
+host-suffix,acg.tv
+host-suffix,b23.tv
+host-suffix,acgvideo.com
+host-suffix,bilibili.cn
+host-suffix,bilibili.com
+host-suffix,bilibili.tv
+host-suffix,bilivideo.com
+host-suffix,bilivideo.cn
+host-suffix,hdslb.com
+
+
+# >> ByteDance
+host-suffix,bytecdn.cn
+host-suffix,feiliao.com
+host-suffix,iesdouyin.com
+host-suffix,pstatp.com
+host-suffix,snssdk.com
+host-suffix,toutiao.com
+
+# >> ChinaNet
+host-suffix,189.cn
+host-suffix,21cn.com
+
+# > DiDi
+host-suffix,didialift.com
+host-suffix,didiglobal.com
+host-suffix,udache.com
+
+# >> IP Query
+host-suffix,ip.bjango.com
+host-suffix,ip-cdn.com
+host-suffix,ip.cn
+host-suffix,ip.la
+host-suffix,ipip.net
+host-suffix,ipv6-test.com
+host-suffix,test-ipv6.com
+host-suffix,whatismyip.com
+
+
+# >> JD
+host-suffix,360buyimg.com
+host-suffix,jd.com
+host-suffix,jd.hk
+host-suffix,jdpay.com
+
+
+# >> MI
+host-suffix,duokan.com
+host-suffix,mi-img.com
+host-suffix,mifile.cn
+host-suffix,miui.com
+host-suffix,miwifi.com
+host-suffix,xiaomi.com
+
+# >> Microsoft
+host-keyword,officecdn
+host-suffix,microsoft.com
+host-suffix,microsoftstore.com.cn
+host-suffix,msftconnecttest.com
+host-suffix,msftncsi.com
+host-suffix,outlook.com
+host-suffix,s-microsoft.com
+host-suffix,sfx.ms
+host-suffix,sharepoint.com
+# host-suffix,visualstudio.com
+host-suffix,windows.com
+host-suffix,windowsupdate.com
+
+
+# >> NetEase
+host-suffix,126.net
+host-suffix,163.com
+
+
+# >> Sina
+host-suffix,sina.cn
+host-suffix,sina.com
+host-suffix,sina.com.cn
+host-suffix,weibo.cn
+host-suffix,weibo.com
+host-suffix,weibocdn.com
+
+# > Sogo
+host-suffix,sogo.com
+host-suffix,sogou.com
+host-suffix,sogoucdn.com
+host,info.pinyin.sogou.com
+host,ping.pinyin.sogou.com
+host-suffix,push.sogou.com
+host-suffix,zhushou.sogou.com
+
+# >> Tencent
+host-suffix,vi.l.qq.com
+host-suffix,dns.pub
+host-suffix,doh.pub
+host-suffix,qcloud.com
+
+host-suffix,gtimg.com
+host-suffix,idqqimg.com
+host-suffix,igamecj.com
+host-suffix,myapp.com
+host-suffix,myqcloud.com
+host-suffix,qpic.cn
+host-suffix,qq.com
+host-suffix,tencent-cloud.net
+host-suffix,tencent.com
+
+user-agent,MicroMessenger%20Client
+user-agent,WeChat*
+
+# >> Tesla
+host-suffix,52tesla.com
+host-suffix,xiaote.net
+user-agent,TeslaMap
+
+
+user-agent,YYeTs*
+
+# > Content Delivery Network
+host-suffix,ccgslb.com
+host-suffix,ccgslb.net
+host-suffix,chinanetcenter.com
+host-suffix,meixincdn.com
+host-suffix,ourdvs.com
+host-suffix,staticdn.net
+host-suffix,wangsu.com
+
+# >> Academic
+
+# 中国知网
+host-keyword,cnki.net
+
+# 万方
+host-keyword,wanfangdata
+
+# 法律数据库
+host-keyword,pkulaw
+host-keyword,westlawchina
+
+# >> Others
+host-suffix,12306.cn
+host-suffix,zhihu.com
+
+
+# --- End of Mainland China Available Section ---

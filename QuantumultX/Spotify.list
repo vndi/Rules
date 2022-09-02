@@ -1,0 +1,17 @@
+host-keyword,-spotify-com
+host-suffix,pscdn.co
+host-suffix,scdn.co
+host-suffix,spoti.fi
+host-suffix,spotify.com
+host-suffix,byspotify.com
+host-suffix,spoti.fi
+host-suffix,spotify-everywhere.com
+host-suffix,spotify.design
+host-suffix,spotifycdn.com
+host-suffix,spotifycdn.net
+host-suffix,spotifycharts.com
+host-suffix,spotifycodes.com
+host-suffix,spotifyforbrands.com
+host-suffix,spotifyjobs.com
+user-agent,*Spotify*
+ip-cidr,35.186.224.47/32,no-resolve
